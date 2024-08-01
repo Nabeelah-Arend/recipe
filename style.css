@@ -1,0 +1,54 @@
+.body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    background-color: antiquewhite;
+    border-radius: 6px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.heading {
+    background-color: rgb(253, 251, 250);
+    border-radius: 6px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.picture1 {
+    width: 50%;
+    display: block;
+    margin: 0px auto;
+}
+
+.picture2 {
+    width: 50%;
+    display: block;
+    margin: 0px auto;
+}
+
+.Ingredients {
+display: flex;
+}
+
+h1, h2 .imgcontainer { 
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-display: normal;
+}
+
+@media screen and (max-width: 768px) {
+    .topnavigator {
+    display: block;
+    padding: 10px;
+}
+
+.reviews-container, .feedback-container {
+    margin: 10px;
+    padding: 15px;
+}
+
+text
